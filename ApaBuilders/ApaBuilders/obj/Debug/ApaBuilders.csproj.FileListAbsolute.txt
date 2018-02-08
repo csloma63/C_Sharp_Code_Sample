@@ -1,0 +1,7 @@
+D:\Chris Stuff\ApaBuilders\ApaBuilders\ApaBuilders\bin\Debug\ApaBuilders.exe.config
+D:\Chris Stuff\ApaBuilders\ApaBuilders\ApaBuilders\bin\Debug\ApaBuilders.exe
+D:\Chris Stuff\ApaBuilders\ApaBuilders\ApaBuilders\bin\Debug\ApaBuilders.pdb
+D:\Chris Stuff\ApaBuilders\ApaBuilders\ApaBuilders\obj\Debug\ApaBuilders.csproj.CoreCompileInputs.cache
+D:\Chris Stuff\ApaBuilders\ApaBuilders\ApaBuilders\obj\Debug\ApaBuilders.exe
+D:\Chris Stuff\ApaBuilders\ApaBuilders\ApaBuilders\obj\Debug\ApaBuilders.pdb
+D:\Chris Stuff\ApaBuilders\ApaBuilders\ApaBuilders\obj\Debug\ApaBuilders.csprojResolveAssemblyReference.cache
